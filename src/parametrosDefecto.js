@@ -9,3 +9,4 @@ function resgistrarUsuario(nombre, pais, correo, telefono = "no Estecificado") {
 }
 
 console.log(resgistrarUsuario("Jhonatan", "colombia", "jolki3e4r@outlook.com", "012454545"))
+
